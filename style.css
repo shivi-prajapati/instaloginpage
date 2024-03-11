@@ -1,0 +1,107 @@
+main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  align-items: center;
+}
+#log1{
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    box-shadow: 10px 10px 20px 1px grey; 
+    margin-top: 50px;
+}
+#log1 h1{
+    font-size: 50px;
+    display: flex;
+    justify-content:center;
+   align-items: center;
+   font-family: cursive;
+   padding-top: 20px;
+}
+button{
+    background-color: rgb(15, 151, 230);
+     width: 300px; 
+    border: 0px;
+    border-radius: 5px;
+    height: 25px;
+    color:white;
+     margin-left: 50px;
+    
+    /* box-shadow: 0px 0px 20px rgb(143, 141, 141); */
+}
+input{
+    margin-left: 50px;
+    width: 290px;
+    height: 25px;
+}
+.log3{
+     margin: 20px; 
+  
+    width:115px;
+    height: 1px;
+    background-color: grey;
+
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#log4{
+    margin:10px;
+    
+}
+#log5{
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+
+}
+#log6{
+    color:rgb(1, 1, 12);
+}
+ #log7{
+    margin-left: 140px;
+} 
+#ram{
+    margin-top: 10px;
+    width: 400px;
+    box-shadow: 10px 10px 20px 1px grey; 
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+
+}
+#ram1{
+    color: rgb(55, 174, 221);
+}
+#ram p{
+    margin-left: 80px;
+    margin-top: 30px;
+}
+#ram4{
+    margin-top: 20px;
+}
+#ram5{
+    display: flex;
+    /* flex-direction: row; */
+    /* justify-content: space-evenly; */
+    width: 400;
+    height: 50px;
+    color: white;
+} 
+#ram8,#ram9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 170px;
+    height: 50px;
+     margin-right: 10px;
+     border-radius: 10px;
+     margin-top: 10px;
+}
+
+
+  
